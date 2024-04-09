@@ -11,3 +11,5 @@ The folders contain codes that are solutions to the mathematical tasks below:
     9) Find the binomial coefficient of two numbers.
     10) Find the GSD of two numbers.
 Recursion was used in all solutions.
+Each package has one Main class.
+Documentation is present in each solution.
